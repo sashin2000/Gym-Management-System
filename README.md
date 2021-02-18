@@ -16,6 +16,7 @@ Here, gym manager is able to,
 * Search a member by membership number
 
 Front end - JavaFX
+
 Backend - Java with MongoDB
 
 Test cases with Junit included
