@@ -1,0 +1,57 @@
+.root{
+    -fx-background-color: black;
+    -fx-grid-lines-visible: true;
+}
+
+.label{
+    -fx-alignment: center;
+    -fx-font-size: 15px;
+    -fx-text-fill: aliceblue;
+    -fx-font-family: "Lucida Sans";
+}
+
+.tab-header-background {
+    -fx-background-color:transparent;
+}
+
+.tab-pane {
+    -fx-tab-min-width:200px;
+    -fx-tab-max-width:250px;
+    -fx-tab-min-height:50px;
+    -fx-tab-max-height:50px;
+}
+
+.tab-label{
+    -fx-text-fill: aliceblue;
+}
+
+.tab {
+    -fx-font-family: "Lucida Sans";
+    -fx-font-size: 20;
+    -fx-background-color: #2d2d2d;
+}
+
+.tab:selected {
+    -fx-background-color:black ;
+}
+
+.radio-button{
+    -fx-font-family: "Lucida Sans";
+    -fx-text-fill: aliceblue;
+    -fx-background-radius: 20px;
+}
+
+.button{
+    -fx-font-size: 20px;
+    -fx-text-fill: aliceblue;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 50px;
+    -fx-background-color: #2d2d2d;
+    -fx-background-radius: 0px;
+    -fx-font-family: "Lucida Sans";
+    -fx-cursor: hand;
+}
+
+.button:hover{
+    -fx-background-color: dimgrey;
+}
