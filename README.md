@@ -16,8 +16,9 @@ Here, gym manager is able to,
 * Search a member by membership number
 
 Front end - JavaFX
-
 Backend - Java with MongoDB
+
+Test cases with Junit included
 
 ![ss_0](https://github.com/sashin2000/Gym-Management-System/blob/master/MyGymManagementSystem/ss/ss_0.JPG)
 ![ss_1](https://github.com/sashin2000/Gym-Management-System/blob/master/MyGymManagementSystem/ss/ss_1.JPG)
